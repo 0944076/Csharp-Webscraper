@@ -1,0 +1,11 @@
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\bin\Debug\ScraperRozen.exe.config
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\bin\Debug\ScraperRozen.exe
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\bin\Debug\ScraperRozen.pdb
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\obj\Debug\ScraperRozen.csprojAssemblyReference.cache
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\obj\Debug\ScraperRozen.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\obj\Debug\ScraperRozen.csproj.CopyComplete
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\obj\Debug\ScraperRozen.exe
+C:\Users\ibrahim\source\repos\ScraperRozen\ScraperRozen\obj\Debug\ScraperRozen.pdb
